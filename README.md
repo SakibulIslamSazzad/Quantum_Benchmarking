@@ -4,6 +4,6 @@ On this project, a set of NISQ circuits are selected based on the hardware agnos
 
 
 
-*[1] Teague Tomesh, Pranav Gokhale, Victory Omole, Gokul Subramanian Ravi, Kaitlin N Smith, Joshua Viszlai, Xin-Chuan Wu, Nikos Hardavellas, Margaret R Martonosi, and Frederic T Chong. Supermarq: A scalable quantum benchmark suite. In 2022 IEEE International Symposium on High-Performance Computer Architecture (HPCA), pages 587–603. IEEE, 2022.*
+**[1] Teague Tomesh, Pranav Gokhale, Victory Omole, Gokul Subramanian Ravi, Kaitlin N Smith, Joshua Viszlai, Xin-Chuan Wu, Nikos Hardavellas, Margaret R Martonosi, and Frederic T Chong. Supermarq: A scalable quantum benchmark suite. In 2022 IEEE International Symposium on High-Performance Computer Architecture (HPCA), pages 587–603. IEEE, 2022.**
 
-*[2] J. Watrous. “Simpler semidefinite programs for completely bounded norms”, arXiv:1207.5726 [quant-ph] (2012)*
+**[2] J. Watrous. “Simpler semidefinite programs for completely bounded norms”, arXiv:1207.5726 [quant-ph] (2012)**
